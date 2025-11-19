@@ -22,9 +22,9 @@ This table lists Shotokan katas required (Shitei Gata), optional (Sentei Gata), 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 # Shotokan Kata List
 
-| Serial Number | Group | Kata | Kanji | Original 15 Forms | Kiai 1st | Kiai 2nd | Count | Belt Color | Meaning of Kata Name | Progress |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---------- |
-| 1 | Shitei Gata | Heian Shodan | 平安初段 | • | 9 | 17 | 21 | ⚪🟡 White / Yellow | Peaceful Mind, First Level | &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; |
+| Serial Number | Group | Kata | Kanji | Original 15 Forms | Kiai 1st | Kiai 2nd | Count | Belt Color | Meaning of Kata Name | Progress | Kata Picture |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---------- | --- |
+| 1 | Shitei Gata | Heian Shodan | 平安初段 | • | 9 | 17 | 21 | ⚪🟡 White / Yellow | Peaceful Mind, First Level | &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; |![title](Images/Heian_Shodan[1].jpg)|
 | 2 | Shitei Gata | Heian Nidan | 平安二段 | • | 11 | 26 | 26 | 🟡 Yellow | Peaceful Mind, Second Level | &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; |
 | 3 | Shitei Gata | Heian Sandan | 平安三段 | • | 10 | 20 | 22 | 🟠 Orange | Peaceful Mind, Third Level | &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; |
 | 4 | Shitei Gata | Heian Yondan | 平安四段 | • | 13 | 25 | 23 | 🟢 Green | Peaceful Mind, Fourth Level | &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; |
