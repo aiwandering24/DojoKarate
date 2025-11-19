@@ -2,6 +2,22 @@
 
 This table lists Shotokan katas required (Shitei Gata), optional (Sentei Gata), and free forms (Jiyu Gata) along with details about their kiai count and complexity, matched to typical belt colors.
 
+# Japanese Numbers 1-10 and Karate Belt Titles
+
+| Serial Number | Japanese Number (Kanji) | Romaji | English Meaning | Typical Karate Belt Title |
+| --- | --- | --- | --- | --- |
+| 1 | 一 | ichi | One | White Belt (10th Kyu) |
+| 2 | 二 | ni | Two | Yellow Belt (9th Kyu) |
+| 3 | 三 | san | Three | Orange Belt (8th Kyu) |
+| 4 | 四 | yon | Four | Green Belt (7th Kyu) |
+| 5 | 五 | go | Five | Blue Belt (6th Kyu) |
+| 6 | 六 | roku | Six | Purple Belt (5th Kyu) |
+| 7 | 七 | nana | Seven | Brown Belt (4th Kyu) |
+| 8 | 八 | hachi | Eight | Brown Belt (3rd Kyu) |
+| 9 | 九 | kyu | Nine | Brown Belt (2nd Kyu) |
+| 10 | 十 | juu | Ten | Black Belt (1st Dan) |
+
+
 | Group | Kata | Kanji | Original 15 Forms | Kiai 1st | Kiai 2nd | Count | Belt Color | Meaning of Kata Name |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 # Shotokan Kata List
